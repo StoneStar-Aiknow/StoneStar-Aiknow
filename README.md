@@ -1,90 +1,109 @@
-# Welcome to GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Thanks+for+visiting+%E3%80%9C(%C2%B4%EF%BD%80%60)%E3%80%82" alt="Typing SVG" />
+</p>
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+<p align="center">
+  <img src="https://64.media.tumblr.com/6b3e4c2a0d2d5b5e5e5e5e5e5e5e5e5/tumblr_inline_placeholder.gif" width="400" height="225" onerror="this.style.display='none'"/>
+</p>
 
-## Repositories
+---
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
-
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
-
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
-
-## Your first website
-
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
-
-[Learn more about GitHub Pages](https://pages.github.com/)
-
-## Rename this repository to publish your site
-
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
-
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
-
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
+## 🎌 About Me
 
 ```
-<p>Hello World! I’m [username]. This is my website!</p>
+╔══════════════════════════════════════════════════════════╗
+║  Hello! I'm StoneStar-Aiknow ✨                           ║
+║  ─────────────────────────────────────────────────────── ║
+║  🌸 Learning to code, one commit at a time                ║
+║  🎮 Gaming enthusiast & anime lover                       ║
+║  💫 "The only way to do great work is to love what       ║
+║     you do." - Steve Jobs                                 ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
+---
 
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StoneStar-Aiknow&show_icons=true&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=StoneStar-Aiknow&theme=tokyo-night&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" alt="GitHub Streak" />
+</p>
 
-Delete this placeholder line:
+---
 
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
+## 🏆 GitHub Trophy
 
-Then, paste the template to line 15 and fill in the blanks.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StoneStar-Aiknow&theme=tokyo-night&no-frame=true&row=1&column=6" alt="Trophy" />
+</p>
 
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
+---
 
+## 💻 Tech Stack
 
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
+### 🎮 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC">
+</p>
 
+### 🛠️ Frameworks & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&labelColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
+</p>
 
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
+### 🎨 Design
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26">
+</p>
 
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
+---
 
-:tada: You just made your first commit! :tada:
+## 📈 Contribution Graph
 
-## Extra Credit: Keep on building!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StoneStar-Aiknow&theme=tokyo-night&bg_color=1a1b26&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=false" alt="Activity Graph" />
+</p>
 
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
+---
 
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
+## 🌟 Featured Projects
 
-![octocat](./images/create-octocat.png)
+<p align="center">
+  <a href="https://github.com/StoneStar-Aiknow/StoneStar-Aiknow">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StoneStar-Aiknow&repo=StoneStar-Aiknow&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" />
+  </a>
+</p>
 
-## Everything you need to know about GitHub
+---
 
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/StoneStar-Aiknow" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-FF69B4?style=flat-square&logo=heart&logoColor=white">
+</p>
+
+<p align="center">
+  <sub><i>⭐ Made with love and lots of anime reference</i></sub>
+</p>
+
+---
+
+<!--
+💡 Profile last updated: 2026-04-03
+🎌 Theme: Tokyo Night (Anime Aesthetic)
+-->
