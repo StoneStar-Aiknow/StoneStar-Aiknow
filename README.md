@@ -1,3 +1,4 @@
+<!-- 🌸 Profile last updated: 2026-04-03 - Triggering cache refresh -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Thanks+for+visiting+%E3%80%9C(%C2%B4%EF%BD%80%60)%E3%80%82" alt="Typing SVG" />
 </p>
