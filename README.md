@@ -9,20 +9,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StoneStar-Aiknow&show_icons=true&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoneStar-Aiknow&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF&layout=compact" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=StoneStar-Aiknow&show_icons=true&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=StoneStar-Aiknow&theme=tokyo-night&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FF69B4&sideLabels=FF69B4" alt="GitHub Streak" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=StoneStar-Aiknow&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophy
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StoneStar-Aiknow&theme=tokyo-night&no-frame=true&row=1&column=6" alt="Trophy" />
+  <img src="https://streak-stats.demolab.com/?user=StoneStar-Aiknow&theme=tokyo-night&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" alt="GitHub Streak" />
 </p>
 
 ---
