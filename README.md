@@ -1,23 +1,45 @@
-# 🌸 StoneStar-Aiknow's Profile
+<div align="center">
 
-<p align="center">
+  # 🌸 StoneStar-Aiknow
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile!;Thanks+for+visiting+%E3%80%9C(%C2%B4%EF%BD%80%60)%E3%80%82" alt="Typing SVG" />
-</p>
+
+  <img src="https://komarev.com/ghpvc/?username=StoneStar-Aiknow&color=FF69B4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```typescript
+const stoneStar = {
+  location: "🌍 Earth",
+  learning: ["Python", "JavaScript", "TypeScript"],
+  interests: ["🎮 Gaming", "🌸 Anime", "💻 Coding"],
+  motto: "The only way to do great work is to love what you do."
+};
+```
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=StoneStar-Aiknow&show_icons=true&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=StoneStar-Aiknow&show_icons=true&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF&hide_border=false&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=StoneStar-Aiknow&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF&layout=compact&hide_border=false" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=StoneStar-Aiknow&theme=tokyo-night&border_color=FF69B4&title_color=FF69B4&text_color=FFFFFF&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=StoneStar-Aiknow&theme=tokyo-night&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&hide_border=false" alt="GitHub Streak" />
 </p>
 
+---
+
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=StoneStar-Aiknow&theme=tokyo-night&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,git,css,html,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -28,43 +50,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StoneStar-Aiknow&theme=tokyo-night&bg_color=1a1b26&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=false" alt="Activity Graph" />
 </p>
 
----
-
-## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&labelColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26">
+  <img src="https://raw.githubusercontent.com/StoneStar-Aiknow/StoneStar-Aiknow/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+<div align="center">
 
-<p align="center">
   <a href="https://github.com/StoneStar-Aiknow" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>
-</p>
 
----
+  <br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-FF69B4?style=flat-square&logo=heart&logoColor=white">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-FF69B4?style=flat-square&logo=heart&logoColor=white">
-</p>
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-FF69B4?style=flat-square" />
 
-<p align="center">
-  <sub><i>⭐ Made with love and anime reference ✨</i></sub>
-</p>
+</div>
 
 <!--
-💡 Profile last updated: 2026-04-03
+💡 Profile last updated: 2026-04-24
 🎌 Theme: Tokyo Night (Anime Aesthetic)
 -->
